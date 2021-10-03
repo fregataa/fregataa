@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 
 -->
 - 🌱 I’m currently learning Python3, Golang and Architecture Pattern.
-- 📫 How to reach me: oper6909@gmail.com
 - ⚡ Fun fact: I am funny.
+- 📫 Email: oper6909@gmail.com
+- 📖 Blog: https://velog.io/@fregataa
+- 🐯 About myself: [my notion page](https://www.notion.so/hahasanghun/51d0b712544542a79079dbb9a8dfba85)
