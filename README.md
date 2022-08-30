@@ -1,7 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fregataa&custom_title=Fregataa%27s%20Github%20Stats&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fregataa&custom_title=The%20Languages%20I%20Love&count_private=true&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **fregataa/fregataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
