@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fregataa&custom_title=Fregataa%27s%20Github%20Stats&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning Python3, Golang and Architecture Pattern.
+- 🌱 I’m currently interested with Rust and GraphQL.
 - ⚡ Fun fact: I am funny.
 - 📫 Email: oper6909@gmail.com
 - 📖 Blog: https://velog.io/@fregataa
