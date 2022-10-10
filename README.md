@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am funny.
 - 📫 Email: oper6909@gmail.com
 - 📖 Blog: https://velog.io/@fregataa
-- 🐯 About myself: [my notion page](https://www.notion.so/hahasanghun/51d0b712544542a79079dbb9a8dfba85)
+- 🐯 Resume: https://fregataa.github.io/
