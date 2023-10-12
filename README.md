@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fregataa&custom_title=Fregataa%27s%20Github%20Stats&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ![](https://komarev.com/ghpvc/?username=fregataa&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghun-lee-803280222/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghun-lee-803280222/)](https://www.linkedin.com/in/sanghun-lee-803280222/)
 
 - 🌱 Python developer. I'm interested with many programming languages and distributed systems.
 - ⚡ Fun fact: I am funny.
