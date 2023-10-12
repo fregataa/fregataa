@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=fregataa&color=brightgreen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghun-lee-803280222/)](https://www.linkedin.com/in/sanghun-lee-803280222/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oper6909@gmail.com)](mailto:oper6909@gmail.com)
 
 - 🌱 Python developer. I'm interested with many programming languages and distributed systems.
 - ⚡ Fun fact: I am funny.
