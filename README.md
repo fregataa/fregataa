@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oper6909@gmail.com)](mailto:oper6909@gmail.com)
 
 - 🌱 Python developer. I'm interested with many programming languages and distributed systems.
+- 🏃 Crossfit enjoyer, meat lover.
 - ⚡ Fun fact: I am funny.
 - 📫 Email: oper6909@gmail.com
 - 📖 Blog: https://velog.io/@fregataa
