@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghun-lee-803280222/)](https://www.linkedin.com/in/sanghun-lee-803280222/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oper6909@gmail.com)](mailto:oper6909@gmail.com)
 
-- 🌱 Python developer. I'm interested with many programming languages and distributed systems.
-- 🏃 Crossfit enjoyer, meat lover.
-- ⚡ Fun fact: I am funny.
+- 🌱 Python developer. I'm interested with functional programming languages and distributed systems.
+- 🏃 Crossfit enjoyer.
 - 📫 Email: oper6909@gmail.com
 - 📖 Blog: https://velog.io/@fregataa
 - 🐯 Resume: https://fregataa.github.io/
